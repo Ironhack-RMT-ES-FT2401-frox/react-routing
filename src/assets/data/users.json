@@ -1,0 +1,8 @@
+[
+  { "username": "abraham", "city": "gijon", "id": 1111 },
+  { "username": "adri", "city": "vic", "id": 2222 },
+  { "username": "francisco", "city": "sevilla", "id": 3333 },
+  { "username": "josep", "city": "valencia", "id": 4444 },
+  { "username": "meri", "city": "madrid", "id": 5555 },
+  { "username": "pablo", "city": "granada", "id": 6666 }
+]
